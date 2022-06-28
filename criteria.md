@@ -24,7 +24,7 @@ team. Individuals can now be in the same category.
 - Awards will be made in five categories: Junior Sportsman, Junior Sportswoman, Sportsman,
 Sportswoman and Team of the Year.
 - To be eligible for junior awards the nominee must be aged under 19 at some time during the judging
-year (1 September 2020 - 31 August 2021).
+year (1 September 2021 - 31 August 2022).
 - Winners of the five categories will be chosen from the full list of nominees and will be eligible for
 the main award, the Marlborough Sportsperson of the Year.
 - To be eligible nominees must be affiliated to a Marlborough-based club or organisation during the
