@@ -3,7 +3,7 @@ layout: default
 title: "Categories"
 nav: Categories
 hero: /assets/img/hero2.jpg
-hero-tag: Punching above our weight since ages ago
+hero-tag: Punching above our weight
 ---
 
 ## Categories:
