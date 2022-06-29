@@ -3,7 +3,7 @@ layout: default
 title: "Nomination Criteria"
 nav: Categories
 hero: /assets/img/hero3.jpg
-hero-tag: Acknowledging our top sportspeople amongst family and friends
+hero-tag: Acknowledging our top sportspeople with family and friends
 ---
 
 ## Nomination Criteria
