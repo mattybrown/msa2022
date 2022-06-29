@@ -3,7 +3,7 @@ layout: default
 title: "Nominations open soon"
 nav: Home
 hero: /assets/img/hero1.jpg
-hero-tag: The country's most prestigious regional sport awards
+hero-tag: Celebrating Marlborough sport
 ---
 
 ## More than 50 years of sporting excellence
