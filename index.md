@@ -8,7 +8,7 @@ hero-tag: Celebrating Marlborough sport
 
 ## More than 50 years of sporting excellence
 
-<img src="{{ "/assets/img/trophy.jpg" | relative_url }}" class="float-right border-4 rounded-lg border-slate-300 border-double m-4" />
+<img src="{{ "/assets/img/trophy.jpg" | relative_url }}" class="md:float-right border-4 rounded-lg border-slate-300 border-double m-4 sm:float-none" />
 
 The Marlborough Sports Awards has been the premier Sports Awards event in the Marlborough province since 1967.
 

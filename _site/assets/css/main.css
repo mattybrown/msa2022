@@ -1174,6 +1174,10 @@ video {
 
 @media (min-width: 640px) {
 
+  .sm\:float-none {
+    float: none;
+  }
+
   .sm\:h-9 {
     height: 2.25rem;
   }
@@ -1205,6 +1209,10 @@ video {
 
   .md\:order-1 {
     order: 1;
+  }
+
+  .md\:float-right {
+    float: right;
   }
 
   .md\:mt-0 {

@@ -2,7 +2,7 @@
 layout: default
 title: "History"
 nav: Categories
-hero: /assets/img/hero1.jpg
+hero: /assets/img/hero6.jpg
 hero-tag: Recognising Marlborough's best since 1967
 ---
 
