@@ -17,18 +17,18 @@ const options = {
       console.log('element has been toggled')
   }
 };
-
-/*
-* targetEl: required
-* options: optional
-*/
-const collapse = new Collapse(targetEl, options);
-
-// show the target element
-collapse.expand();
-
-// hide the target element
-collapse.collapse();
-
-// toggle the visibility of the target element
-collapse.toggle();
+//
+// /*
+// * targetEl: required
+// * options: optional
+// */
+// const collapse = new Collapse(targetEl, options);
+//
+// // show the target element
+// collapse.expand();
+//
+// // hide the target element
+// collapse.collapse();
+//
+// // toggle the visibility of the target element
+// collapse.toggle();

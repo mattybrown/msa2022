@@ -903,6 +903,24 @@ video {
 .top-0 {
   top: 0px;
 }
+.top-60 {
+  top: 15rem;
+}
+.top-20 {
+  top: 5rem;
+}
+.z-\[1\] {
+  z-index: 1;
+}
+.z-\[2\] {
+  z-index: 2;
+}
+.z-\[100\] {
+  z-index: 100;
+}
+.z-\[-1\] {
+  z-index: -1;
+}
 .float-right {
   float: right;
 }
@@ -1201,6 +1219,14 @@ video {
 
   .md\:top-10 {
     top: 2.5rem;
+  }
+
+  .md\:top-60 {
+    top: 15rem;
+  }
+
+  .md\:top-40 {
+    top: 10rem;
   }
 
   .md\:order-2 {
