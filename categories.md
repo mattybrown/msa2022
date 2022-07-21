@@ -10,31 +10,48 @@ hero-tag: Punching above our weight
 
 **JUNIOR SPORTSWOMAN OF THE YEAR (under 19-years-old)**
 
-*A bit of a blurb about each award?*
+<img src="{{ "/assets/img/4.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
+**2021 Junior Sportswoman of the Year**
+Jade Otway
 
 ---
 
 **JUNIOR SPORTSMAN OF THE YEAR (under 19-years-old)**
 
-*A bit of a blurb about each award?*
+<img src="{{ "/assets/img/6.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
+**2021 Junior Sportsman of the Year**
+William Exton
 
 ---
 
 **SPORTS TEAM OF THE YEAR**
 
-*A bit of a blurb about each award?*
+<img src="{{ "/assets/img/1.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
+**2021 Team of the Year**
+Lawn Bowls team Maurice Symes & Craig MacDonell
 
 ---
 
 **SPORTSWOMAN OF THE YEAR**
 
-*A bit of a blurb about each award?*
+<img src="{{ "/assets/img/2.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
+**2021 Sportswoman of the Year**
+Ella Greenslade
 
 ---
 
 **SPORTSMAN OF THE YEAR**
 
-*A bit of a blurb about each award?*
+<img src="{{ "/assets/img/3.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
+**2021 Sportsman of the Year**
+Tom Murray
+
+---
+**OVERALL SPORTSPERSON OF THE YEAR**
+
+<img src="{{ "/assets/img/5.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
+**2021 Overall Sportsperson of the Year**
+Tom Murray
 
 ---
 

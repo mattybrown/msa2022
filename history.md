@@ -6,28 +6,46 @@ hero: /assets/img/hero6.jpg
 hero-tag: Recognising Marlborough's best since 1967
 ---
 
-## Last year's winners
+## Marlborough Sports Awards Past Winners
 
-<img src="{{ "/assets/img/6.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
-**Junior Sportsman of the Year**
-William Exton
+1967: Alan Sutherland (rugby)
 
-<img src="{{ "/assets/img/4.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
-**Junior Sportswoman of the Year**
-Jade Otway
+1968: Alan Sutherland (rugby)
 
-<img src="{{ "/assets/img/2.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
-**Sportswoman of the Year**
-Ella Greenslade
+1969: Geoff Hocquard (wood-chopping)
 
-<img src="{{ "/assets/img/3.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
-**Sportsman of the Year**
-Tom Murray
+1970: Alan Sutherland (rugby)
 
-<img src="{{ "/assets/img/1.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
-**Team of the Year**
-Lawn Bowls team Maurice Symes & Craig MacDonell
+1971: Susanne Bishell (equestrian)
 
-<img src="{{ "/assets/img/5.jpg" | relative_url }}" class="border-4 rounded-lg border-slate-300" />
-**Overall Sportsperson of the Year**
-Tom Murray
+1972: David Neal (rugby)
+
+1973: Marlborough rugby team
+
+1974: Richard Tayler (athletics)
+
+1975: Debbie Looms (table tennis)
+
+1976: Lance Cairns (cricket)
+
+1977: John Woodley (motorcycling)
+
+1978: Chris Moran (disabled sport)
+
+1979: Brian Ford (rugby)
+
+1980: Dianne Erikson (badminton)
+
+1981: Graeme Miller (cycling)
+
+1982: Tony Brook (rowing)
+
+1983: Allan Miller (cycling)
+
+1984: Susan Stewart (diving)
+
+1985: Elliot Boult (golf)
+
+1986: David Hocquard (woodchopping)
+
+1987: Elliot Boult (golf)
