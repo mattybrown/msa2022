@@ -49,3 +49,71 @@ hero-tag: Recognising Marlborough's best since 1967
 1986: David Hocquard (woodchopping)
 
 1987: Elliot Boult (golf)
+
+1988: John Dodson (rifle shooting)
+
+1989: Simon Wilson (cricket)
+
+1990: Sandy Marshall (rifle shooting)
+
+1991: Brendan Neylon (cycling)
+
+1992: Bill Stevenson (rifle shooting)
+
+1993: Anton Oliver (rugby)
+
+1994: Ben Lucas (disabled sport)
+
+1995: Ray Lynskey (gliding)
+
+1996: George Crosby (squash)
+
+1997: David Shepherd (rowing)
+
+1998: Lloyd Gallop, Andre Smith, Bob Dowling, Kevin Greenwood (bowls)
+
+1999: Robin Reid (cycling)
+
+2000: Jason Allen (cycling)
+
+2001: Mark Inglis (cycling)
+
+2002: Rob Hellstrom (rowing)
+
+2003: Justin Leov (mountainbike)
+
+2004: Robin Reid (cycling)
+
+2005: Jason Allen (cycling)
+
+2006: Duncan Grant (rowing)
+
+2007: Duncan Grant (rowing)
+
+2008: Joseph Sullivan (rowing)
+
+2009: Duncan Grant (rowing)
+
+2010: Sean O'Neill (rowing)
+
+2011: Joseph Sullivan (rowing)
+
+2012: Joseph Sullivan (rowing)
+
+2013: Megan Craig (squash)
+
+2014: Sophie MacKenzie (rowing)
+
+2015: Sophie MacKenzie (rowing)
+
+2016: John Kennard (motorsport)
+
+2017: Robbie Manson (rowing)
+
+2018: Robbie Manson (rowing)
+
+2019: Gase Sanita (MMA)
+
+2020: Callum Saunders (cycling)
+
+2021: Tom Murray (rowing)
