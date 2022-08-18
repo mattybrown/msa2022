@@ -903,9 +903,6 @@ video {
 .top-0 {
   top: 0px;
 }
-.m-4 {
-  margin: 1rem;
-}
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -1221,6 +1218,10 @@ video {
 
   .md\:float-right {
     float: right;
+  }
+
+  .md\:ml-8 {
+    margin-left: 2rem;
   }
 
   .md\:mt-0 {
