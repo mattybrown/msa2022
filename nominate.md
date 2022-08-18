@@ -24,6 +24,11 @@ Nominator email:
 </label><br />
 
 <label class="block">
+Nominating organisation:
+<input class="mt-1 block w-full" type="email" name="nominatingOrg">
+</label><br />
+
+<label class="block">
 Nominee name:
 <input class="mt-1 block w-full" type="text" name="nomineeName" required>
 </label><br />
